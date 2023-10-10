@@ -12,3 +12,7 @@ void sort (){
 void mergesort (){
 
 }
+
+void insertionSOrt(){
+
+}
